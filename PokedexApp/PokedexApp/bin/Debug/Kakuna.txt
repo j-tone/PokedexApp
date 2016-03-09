@@ -1,0 +1,16 @@
+014
+Cocoon
+Bug
+Poison
+.6
+10.0
+Almost incapable of moving, this Pokémon can only harden its shell to protect itself from predators.
+13
+14
+15
+45
+25
+50
+25
+25
+35

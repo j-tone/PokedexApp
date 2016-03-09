@@ -1,0 +1,16 @@
+031
+Drill
+Poison
+Ground
+1.3
+60.0
+Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.
+29
+30
+31
+90
+92
+87
+75
+85
+76

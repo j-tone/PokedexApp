@@ -1,0 +1,16 @@
+008
+Turtle
+Water
+
+1.0
+22.5
+Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.
+7
+8
+9
+59
+63
+80
+65
+80
+58

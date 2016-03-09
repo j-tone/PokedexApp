@@ -1,0 +1,16 @@
+042
+Bat
+Poison
+Flying
+1.6
+55.0
+Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.
+41
+42
+0
+75
+80
+70
+65
+75
+90

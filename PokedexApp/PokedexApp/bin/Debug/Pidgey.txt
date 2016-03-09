@@ -1,0 +1,16 @@
+016
+Tiny Bird
+Normal
+Flying
+.3
+1.8
+A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.
+16
+17
+18
+40
+45
+40
+35
+35
+56

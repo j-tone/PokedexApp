@@ -1,0 +1,16 @@
+011
+Cocoon
+Bug
+
+.7
+9.9
+This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.
+10
+11
+12
+50
+20
+55
+25
+25
+30

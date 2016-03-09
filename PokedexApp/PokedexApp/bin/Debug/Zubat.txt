@@ -1,0 +1,16 @@
+041
+Bat
+Poison
+Flying
+.8
+7.5
+Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.
+41
+42
+0
+40
+45
+35
+30
+40
+55

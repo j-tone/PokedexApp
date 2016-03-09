@@ -1,0 +1,16 @@
+015
+Poison Bee
+Bug
+Poison
+1.0
+29.5
+Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.
+13
+14
+15
+65
+90
+40
+45
+80
+75

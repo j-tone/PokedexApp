@@ -1,0 +1,16 @@
+020
+Mouse
+Normal
+
+.7
+18.5
+It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.
+19
+20
+0
+55
+81
+60
+50
+70
+97

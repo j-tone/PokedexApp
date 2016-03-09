@@ -1,0 +1,16 @@
+039
+Balloon
+Normal
+
+.5
+5.5
+When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.
+39
+40
+0
+115
+45
+20
+45
+25
+20

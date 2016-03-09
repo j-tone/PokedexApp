@@ -1,0 +1,16 @@
+018
+Bird
+Normal
+Flying
+1.5
+39.5
+When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.
+16
+17
+18
+83
+80
+75
+70
+70
+101

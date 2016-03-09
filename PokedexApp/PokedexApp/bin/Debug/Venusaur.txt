@@ -1,0 +1,16 @@
+003
+Seed
+Grass
+Poison
+6'07"
+220.5lbs
+The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.
+1
+2
+3
+80
+82
+83
+100
+100
+80

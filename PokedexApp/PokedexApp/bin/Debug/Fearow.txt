@@ -1,0 +1,16 @@
+022
+Beak
+Normal
+Flying
+1.2
+38.0
+With its huge and magnificent wings, it can keep aloft without ever having to land for rest.
+21
+22
+0
+65
+90
+65
+61
+61
+100

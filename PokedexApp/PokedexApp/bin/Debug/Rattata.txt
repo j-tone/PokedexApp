@@ -1,0 +1,16 @@
+019
+Mouse
+Normal
+
+.3
+3.5
+Bites anything when it attacks. Small and very quick, it is a common sight in many places.
+19
+20
+0
+30
+56
+35
+25
+35
+72

@@ -1,0 +1,16 @@
+002
+Seed
+Grass
+Poison
+3'03"
+28.7lbs
+When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.
+1
+2
+3
+60
+62
+63
+80
+80
+60

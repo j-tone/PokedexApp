@@ -1,0 +1,16 @@
+034
+Drill
+Poison
+Ground
+1.4
+62.0
+It uses its powerful tail in battle to smash, constrict, then break the prey's bones.
+32
+33
+34
+81
+102
+77
+85
+75
+85

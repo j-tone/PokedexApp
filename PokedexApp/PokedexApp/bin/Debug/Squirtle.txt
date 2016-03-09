@@ -1,0 +1,16 @@
+007
+Tiny Turtle
+Water
+
+.5
+9.0
+After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.
+7
+8
+9
+44
+48
+65
+50
+64
+43

@@ -1,0 +1,16 @@
+032
+Poison Pin
+Poison
+
+.5
+9.0
+Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.
+32
+33
+34
+46
+57
+40
+40
+40
+50

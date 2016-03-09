@@ -1,0 +1,16 @@
+040
+Balloon
+Normal
+
+1.0
+12.0
+The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.
+39
+40
+0
+140
+70
+45
+85
+50
+45

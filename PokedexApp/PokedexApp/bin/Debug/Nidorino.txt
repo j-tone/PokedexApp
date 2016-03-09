@@ -1,0 +1,16 @@
+033
+Poison Pin
+Poison
+
+.9
+19.5
+An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.
+32
+33
+34
+61
+72
+57
+55
+55
+65

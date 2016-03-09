@@ -1,0 +1,16 @@
+026
+Mouse
+Electric
+
+.8
+30.0
+Its long tail serves as a ground to protect itself from its own high voltage power.
+25
+26
+0
+60
+90
+55
+90
+80
+110

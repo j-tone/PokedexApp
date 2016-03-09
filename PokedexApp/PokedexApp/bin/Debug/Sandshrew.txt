@@ -1,0 +1,16 @@
+027
+Mouse
+Ground
+
+.6
+12.0
+Burrows deep underground in arid locations far from water. It only emerges to hunt for food.
+27
+28
+0
+50
+75
+85
+20
+30
+40

@@ -1,0 +1,16 @@
+030
+Poison Pin
+Poison
+
+.8
+20.0
+The female's horn develops slowly. Prefers physical attacks such as clawing and biting.
+29
+30
+31
+70
+62
+67
+55
+55
+56

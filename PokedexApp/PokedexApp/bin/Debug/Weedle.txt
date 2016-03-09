@@ -1,0 +1,16 @@
+013
+Hairy
+Bug
+Poison
+.3
+3.2
+Often found in forests, eating leaves. It has a sharp venomous stinger on its head.
+13
+14
+15
+40
+35
+30
+20
+20
+50

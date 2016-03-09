@@ -1,0 +1,16 @@
+017
+Bird
+Normal
+Flying
+1.1
+30.0
+Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.
+16
+17
+18
+63
+60
+55
+50
+50
+71

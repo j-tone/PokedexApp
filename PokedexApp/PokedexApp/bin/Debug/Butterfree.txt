@@ -1,0 +1,16 @@
+012
+Butterfly
+Bug
+Flying
+1.1
+32.0
+In battle, it flaps its wings at high speed to release highly toxic dust into the air.
+10
+11
+12
+60
+45
+50
+90
+80
+70

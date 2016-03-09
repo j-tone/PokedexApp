@@ -1,0 +1,16 @@
+009
+Shellfish
+Water
+
+1.6
+85.5
+A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles.
+7
+8
+9
+79
+83
+100
+85
+105
+78

@@ -1,0 +1,16 @@
+021
+Tiny Bird
+Normal
+Flying
+.3
+2.0
+Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.
+21
+22
+0
+40
+60
+30
+31
+31
+70
